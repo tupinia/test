@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Prerequisites](#prerequisites)
+* [Prerequisites](#prerequisitessssss)
 * [Installation](#installation)
 * [Usage](#usage)
   * [1 - Automated build at the <a href="https://hub.docker.com">Docker Hub</a>](#1---automated-build-at-the-docker-hub)
     * [1.1 - Description](#11---description)
-    * [1.2 - Generate the files](#12---generate-the-files)
+    * [1.2 - Generate the files](#12---generated-the-files)
     * [1.3 - Set your Docker Hub project](#13---set-your-docker-hub-project)
       * [At GitHub](#at-github)
       * [At Docker Hub](#at-docker-hub)
